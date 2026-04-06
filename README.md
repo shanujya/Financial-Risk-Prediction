@@ -44,7 +44,7 @@ Constructed high-signal, domain-specific features to provide deeper context to t
 ## 📁 Files in this Repository
 * `Feature_Engineering_Pipeline.ipynb`: The complete Jupyter Notebook containing all code, mathematical proofs, and visualizations.
 * `Final_Engineered_Loan_Data_PCA.csv`: The final, compressed, machine-learning-ready output matrix.
-* `Graded Assignment 1 Dataset.csv`: The original raw dataset (for reproduction).
+* `Synthetic_Loan_Dataset.csv`: The original raw dataset (for reproduction).
 
 ## 🧠 Key Takeaways
 This project highlights the critical balance between domain-driven feature construction and statistical constraints. By prioritizing predictive signals and utilizing PCA to handle the resulting multicollinearity, the final dataset provides an optimal foundation for predictive algorithms ranging from Logistic Regression to advanced ensemble methods.
